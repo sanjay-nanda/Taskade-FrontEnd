@@ -1,4 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
+import { DarkTheme } from '@react-navigation/native'
 import React from 'react';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
