@@ -4,7 +4,7 @@ import ToDoItem from '../components/ToDoItem';
 import { Text, View } from '../components/Themed'
 import { TextInput } from 'react-native-gesture-handler';
 
-export default function TabOneScreen() {
+export default function ToDoScreen() {
 
   const id = '4';
 
